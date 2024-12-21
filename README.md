@@ -1,7 +1,7 @@
 <img src="banner_github.jpg" alt="GitHub Banner" width="100%" />
 
 # Hello World!, I'm Prabal, a Pro Web Developer 👋🏼:
-🛜 currently working on my own <br>👨🏼‍🎓 Completed Bachelors of Technology from computer Science in 2k23 <br>👨🏼‍💻 working as a web developer since 2021 <br>🎬<i>Web 3 enthusiast</i>
+🛜 currently working on my own <br>👨🏼‍🎓 Completed Bachelors of Technology from computer Science in 2023 <br>👨🏼‍💻 working as a web developer since 2021 <br>🎬<i>Web 3 enthusiast</i>
 
 
 # 💻 Tech Stack:
